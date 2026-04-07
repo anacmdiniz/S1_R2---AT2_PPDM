@@ -83,7 +83,7 @@ export default function Home() {
 const styles = StyleSheet.create({
     container: {
         flexGrow: 1,
-        backgroundColor: '#f4f6f8',
+        backgroundColor: '#f9f3ec',
         alignItems: 'center',
         justifyContent: 'center',
         padding: 20
